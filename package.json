@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nicholasrice/css-custom-property-perf/issues"
   },
-  "homepage": "https://github.com/nicholasrice/css-custom-property-perf#readme"
+  "homepage": "https://github.com/nicholasrice/css-custom-property-perf#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
