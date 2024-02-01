@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    /* Base Options: */
+    "target": "es2022",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+
+    /* Strictness: */
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+
+    /* If transpiling with TypeScript: */
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext",
+    "outDir": "dist",
+    "rootDir": "src"
+  }
+}

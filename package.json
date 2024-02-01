@@ -4,6 +4,7 @@
   "description": "Testing CSS custom property performance",
   "main": "index.js",
   "scripts": {
+    "build": "rm -rf dist; tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
