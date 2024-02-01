@@ -1,0 +1,19 @@
+{
+  "name": "css-custom-property-perf",
+  "version": "1.0.0",
+  "description": "Testing CSS custom property performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasrice/css-custom-property-perf.git"
+  },
+  "author": "nicholasrice@noreply.github.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholasrice/css-custom-property-perf/issues"
+  },
+  "homepage": "https://github.com/nicholasrice/css-custom-property-perf#readme"
+}
