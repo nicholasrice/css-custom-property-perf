@@ -1,4 +1,4 @@
-export function* numberGeneratorFactory(maximum: number = 255) {
+export function* numberGeneratorFactory(maximum: number) {
   let value = -1;
 
   while (true) {
